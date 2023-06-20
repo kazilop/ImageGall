@@ -347,7 +347,7 @@ MonoBehaviour:
   gridLayout: {fileID: 2026732475}
   scrollbar: {fileID: 1177521664}
   photoQnty: 66
-  sensitivity: 0.1
+  sensitivity: 0.2
   imagesPerPage: 6
   imageUrls: []
   imagePrefab: {fileID: 1156750864162185862, guid: 8f565fb9e766d5c459afe0c7f46d22e6, type: 3}
